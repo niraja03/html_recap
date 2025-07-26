@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1> Unordered list </h1>
+  <ul>
+    <li>niraja</li>
+    <li>gowardhan</li>
+    <li>guruswami</li>
+    <li>mahalaxmi</li>
+  </ul>
+
+  <h1> Ordered list </h1>
+  <ol type="A">
+  <li>nineteen </li>
+  <li>twentyone </li>
+  <li>fourty</li>  
+  <li>fourtyfive</li>  
+  </ol>
+
+  <h1> Descriptive list </h1>
+  <dt> heyy </dt>
+  <dd> how are you doing? </dd>
+</body>
+</html>
