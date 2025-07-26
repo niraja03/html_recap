@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>my first Document</title>
+</head>
+<body>
+  <!--html text formatting tags-->
+  <p> this is normal text </p>
+  <p><b> this is bold text </b></p>
+  <p><i> this is italic text </i></p>
+  <p><big> this is big text </big></p>
+  <p><small> this is normal text </small></p>
+  <p> this is  <sub>sub text </sub></p>
+  <p>  this is <sup>sup text </sup></p>
+  <p> this is <del>deleted</del> text </p>
+  <p> this is <mark>Marked</mark> text </p>
+
+</body>
+</html>
