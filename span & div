@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>HELLO</h1>
+  <div style="background-color:rgb(156, 188, 125)">
+
+  <p> <span style="background-color: brown;">Google Cloud Platform (GCP)</span> is a suite of cloud computing services offered by Google, utilizing the same infrastructure that powers Google's own consumer products like Gmail and YouTube. It provides a range of services including computing, storage, data analytics, and machine learning, along with management tools.</p>
+
+  <p> <span style="color: brown;">Google Cloud Platform (GCP)</span> is a suite of cloud computing services offered by Google, utilizing the same infrastructure that powers Google's own consumer products like Gmail and YouTube. It provides a range of services including computing, storage, data analytics, and machine learning, along with management tools.</p>
+  
+  <p> Google Cloud Platform (GCP) is a suite of cloud computing services offered by Google, utilizing the same infrastructure that powers Google's own consumer products like Gmail and YouTube. It provides a range of services including computing, storage, data analytics, and machine learning, along with management tools.</p>
+</div>
+</body>
+</html>
