@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body style="background-color: black;">
+  <h1 style="color: white;">HELLO</h1>
+  <h1 style="color: rgb(187, 123, 202) ">HELLO</h1>
+  <h1 style="color: #28f005">HELLO</h1>
+
+  <p style="background-color: #222222; color:#9b97d9"> Get unlimited homework help, revise for exams and perfect your writing with our best AI model. With Google AI Pro, your free upgrade includes access to Veo 3 Fast, Deep Research, NotebookLM and 2 TB free storage. </p>
+  
+</body>
+</html>
