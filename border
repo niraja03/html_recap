@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>THIS IS MY WEBSITE</h1>
+  <p>This video is the intellectual property of Bro Code. All rights reserved. No part of this video may be reproduced, distributed, or transmitted in any form or by any means, including but not limited to recording, uploading, or other electronic or mechanical methods, without my written permission, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+</p>
+  
+</body>
+</html>
+
+
+h1{
+  border-top-style:dotted ;
+  border-bottom-style:dotted ;
+  border-left-style: double;
+  border-left-width: 10px;
+  border-left-color: rgb(99, 134, 165);
+}
+
+
+p{
+  border-style:groove;
+  border-width: 5px;
+  border-color: black;
+  border-radius: 10px;
+  padding: 5px;
+}
