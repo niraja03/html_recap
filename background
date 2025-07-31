@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>THIS IS MY WEBSITE</h1>
+  <p>This video is the intellectual property of Bro Code. All rights reserved. No part of this video may be reproduced, distributed, or transmitted in any form or by any means, including but not limited to recording, uploading, or other electronic or mechanical methods, without my written permission, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+</p>
+  
+</body>
+</html>
+
+body {
+  background-image: url("b.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  /* Add this line to make the image fit the screen */
+  background-size: cover;
+  background-size: cover;
+}
+
+
+h1{
+  background: linear-gradient(to right,rgb(0, 172, 240),rgb(255, 255, 255));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+}
+p{
+  background: linear-gradient(to right,rgb(99, 199, 232), rgb(255, 255, 255));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+}
